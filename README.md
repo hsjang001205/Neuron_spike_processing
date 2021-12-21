@@ -6,3 +6,5 @@
 
 ### analysis.ipynb: 분석 주피터 파일
 ### presentation.pptx: 발표 ppt 파일
+
+(발표를 기준으로 만든 내용이라 설명란이 부족할 수 있습니다.)
